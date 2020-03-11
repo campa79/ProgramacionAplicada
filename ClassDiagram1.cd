@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cleopatra.Sprites.ColeccionNubes" Collapsed="true">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Sprites\ColeccionNubes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cleopatra.Sprites.Fondo" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Fondo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cleopatra.Sprites.Nubes" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Nubes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cleopatra.Sprites.RectanguloAnimacion" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgQAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\RectanguloAnimacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cleopatra.Sprites.Sprite" Collapsed="true">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAgABAAAAQAgAAAAAA=</HashCode>
+      <FileName>Sprites\Sprite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Cleopatra.Sprites.Cleo" Collapsed="true">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAIAAAAAAAAgAAAAAgAQAAAEAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Cleo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cleopatra.Sprites.Vivo" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAQAAAAEAAAAAAAEA=</HashCode>
+      <FileName>Sprites\Vivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cleopatra.Sprites.Bombas" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Bombas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Cleopatra.Sprites.Actualizable" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sprites\Actualizable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
